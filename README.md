@@ -1,5 +1,7 @@
 # HopeaGold Precious Metals Tracker (Excel)
 
+*Suomeksi: [Jalometallien seuranta (suomenkielinen repo)](https://github.com/YOUR-GITHUB-USERNAME/jalometallien-seuranta-excel)*
+
 **Track every gold, silver and platinum coin and bar in Excel.** One form, one button: see your pure metal, the money you invested, what it is worth today and your profit, with charts. No app, no subscription, your data stays in your own file.
 
 ### [Get the full tracker on Gumroad](https://hopeagold.gumroad.com/l/gold-silver-purchase-sheet)
